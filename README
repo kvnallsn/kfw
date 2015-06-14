@@ -1,0 +1,11 @@
+Simple Kernel Firewall
+License: GPLv3
+
+Current Features(/Limitations)
++ Only hard-coded rules (will change soon!)
++ Supports Subnetting
+
+Dir Structure:
++ kernel/: Kernel module code
++ user/: Userspace code (and tools)
+

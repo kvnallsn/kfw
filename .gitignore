@@ -1,0 +1,15 @@
+*.
+*.o
+*.ko
+*.symvers
+*.cmd
+*.order
+*.tmp_versions/
+*.log
+*.gz
+.DS_Store
+Lab01/csum
+Lab01/sniffnspoof
+Lab01/sniffex
+Lab01/spoof
+Lab02/simplefw.mod.c
